@@ -9,8 +9,8 @@
 - Problem Solving via diverse challenges and exercises
 - Developing small applications and real-world projects
 - Writing Clean, Testable Code
-- Object-Oriented & Functional Programming with **C++**
-- Data Structures & Databases applied through practical projects and exercises
+- Object-Oriented & Functional Programming
+- Data Structures & Databases
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔜 *Coming soon...* (working on practical projects to showcase here)
+- *Coming soon...*
 
 ---
 

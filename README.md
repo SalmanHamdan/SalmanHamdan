@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salman Alshami
+# 👋 Hi, I'm Salman Hamdan
 
 💻 **Aspiring Full-Stack Developer | Problem Solver**  
 🎯 Gaining hands-on experience through **practical projects** and **programming challenges**.

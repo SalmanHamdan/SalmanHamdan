@@ -1,23 +1,29 @@
-# 👋 Hi, I'm Salman
+# 👋 Hi, I'm Salman Alshami
 
 💻 **Aspiring Full-Stack Developer | Problem Solver**  
-🎯 Gaining hands-on experience through practical projects and programming challenges.
+🎯 Gaining hands-on experience through **practical projects** and **programming challenges**.
 
 ---
 
 ## 🚀 Skills & Focus
-- Problem Solving via diverse challenges and exercises
-- Developing small applications and real-world projects
-- Writing Clean, Testable Code
-- Object-Oriented & Functional Programming with **C++**
-- Data Structures & Databases applied through practical projects and exercises
+- 🧩 **Problem Solving** via diverse challenges and exercises  
+- 🛠️ **Project Development**: small applications & real-world projects  
+- 📝 **Clean & Testable Code**  
+- 💻 **Programming Languages** : C++  
+- 📚 **OOP & Functional Programming**  
+- 🗄️ **Data Structures & Databases** applied through projects and challenges  
 
 ---
 
 ## 🌱 Learning Approach
-- Training simulates **real-world software development practices**
-- Designed by an instructor with **30+ years of industry experience**
-- Preparing for **advanced Full-Stack development and specialization**
+- Training simulates **real-world software development practices**  
+- Designed by an instructor with **30+ years of industry experience**  
+- Preparing for **advanced Full-Stack development and specialization**  
+
+---
+
+## 📂 Featured Projects
+- 🔜 *Coming soon...* (working on practical projects to showcase here)
 
 ---
 

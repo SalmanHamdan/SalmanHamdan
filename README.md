@@ -7,11 +7,11 @@
 
 ## 🚀 Skills & Focus
 - 🧩 **Problem Solving** via diverse challenges and exercises  
-- 🛠️ **Project Development**: small applications & real-world projects  
+- 🛠️ **Project Development** : small applications & real-world projects  
 - 📝 **Clean & Testable Code**  
 - 💻 **Programming Languages** : C++  
 - 📚 **OOP & Functional Programming**  
-- 🗄️ **Data Structures & Databases** applied through projects and challenges  
+- 🗄️ **Data Structures & Databases**
 
 ---
 

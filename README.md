@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Salman
 
-<!--
-**SalmanHamdan/SalmanHamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Full-Stack Developer | Problem Solver**  
+🎯 Gaining hands-on experience through practical projects and programming challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Focus
+- Problem Solving via diverse challenges and exercises
+- Developing small applications and real-world projects
+- Writing Clean, Testable Code
+- Object-Oriented & Functional Programming with **C++**
+- Data Structures & Databases applied through practical projects and exercises
+
+---
+
+## 🌱 Learning Approach
+- Training simulates **real-world software development practices**
+- Designed by an instructor with **30+ years of industry experience**
+- Preparing for **advanced Full-Stack development and specialization**
+
+---
+
+⭐ *Building practical skills to tackle diverse software development tasks.*

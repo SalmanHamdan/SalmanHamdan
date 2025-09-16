@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Salman
 
-💻 **Aspiring Full-Stack Developer | Problem Solver**  
-🎯 Gaining hands-on experience through practical projects and programming challenges.
+💻 **Aspiring Full-Stack Developer & Problem Solver**  
+
 
 ---
 

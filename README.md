@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Featured Projects
-- *Coming soon...*
+- *In preparation...*
 
 ---
 
